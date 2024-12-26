@@ -1,0 +1,1 @@
+Movie3 is a study project that allows users to search for movies by keyword(s), release year, and/or genre. The app can also recommend movies similar to user’s favorite using a content-based recommendation system that leverages Natural Language Processing (NLP).
